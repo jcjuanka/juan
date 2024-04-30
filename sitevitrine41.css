@@ -202,7 +202,12 @@ float: left;
 width: 200px;
 height: 200px;	
 }
-
+video
+{	
+float: left;
+width: 200px;
+height: 200px;	
+}
 .contacto
 {
 border-radius: 20px;
